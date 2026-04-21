@@ -1,6 +1,6 @@
 <!-- 顶部动态打字效果 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Hi+There+👋+I'm+ArshideSpenser;嗨,你好,👋我是阿尔希德·斯宾塞;Full+Stack+Developer+%7C+SaaS+Architect;全栈开发人员 ∣ SaaS架构师;Building+Elegant+and+Efficient+Systems+🚀;构建优雅且高效的系统🚀" alt="Dynamic Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+There+👋+I'm+ArshideSpenser;Full+Stack+Developer+%7C+SaaS+Architect;Building+Elegant+Systems+🚀;嗨,你好+👋+我是阿尔希德·斯宾塞;全栈开发工程师+SaaS架构师;构建优雅高效的系统🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
