@@ -21,31 +21,14 @@
 
 ---
 
-<!-- 英文内容 -->
-<div id="en" style="display: block">
-
-### 👨‍💻 About Me
+### 👨‍💻 About Me / 关于我
 
 - 🔭 I’m currently working on **Full-Stack Development & SaaS Cloud Systems**
-- 🌱 Deeply learning **System Architecture, Database Optimization & High Concurrency**
+- 🌱 目前专注于 **全栈开发 & SaaS 云服务系统**
 - ⚡ Focus on clean code, reasonable architecture, and smooth user experience
-- 🎯 Goal: Build practical, high-performance, and beautiful projects
-- 🛠 Good at multi-business SaaS, order systems, and database design
-
-</div>
-
-<!-- 中文内容 -->
-<div id="cn" style="display: none">
-
-### 👨‍💻 关于我
-
-- 🔭 目前专注于 **全栈开发 & SaaS 云服务系统**
-- 🌱 深入学习 **系统架构、数据库优化、高并发设计**
-- ⚡ 追求整洁代码、合理架构、极致用户体验
-- 🎯 目标：打造实用、高性能、高颜值的项目
-- 🛠 擅长多业态 SaaS、订单系统、数据库架构设计
-
-</div>
+- 🎯 追求整洁代码、合理架构、流畅用户体验
+- 🛠 Good at multi-business SaaS, order systems, database design
+- 🎯 擅长多业态 SaaS、订单系统、数据库架构设计
 
 ---
 
@@ -92,11 +75,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-<script>
-// 自动语言切换
-const params = new URLSearchParams(window.location.search)
-const lang = params.get('lang') || 'en'
-document.getElementById('en').style.display = lang === 'en' ? 'block' : 'none'
-document.getElementById('cn').style.display = lang === 'cn' ? 'block' : 'none'
-</script>
